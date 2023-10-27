@@ -16,3 +16,6 @@
 # Result
 resources/screenshot/lab7output_result.pdf
 [click here](https://github.com/sophearyrin-dev/cs489-appsd/blob/main/labsolutions/lab7/src/main/resources/screenshot/lab7output_result.pdf)
+
+## Azure cloud
+[click here](https://mysql-lab7-advantiswebapi.azurewebsites.net/adsweb/api/v1/patient/list)
